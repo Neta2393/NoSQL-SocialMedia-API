@@ -1,1 +1,2 @@
-# NoSQL-SocialMedia-API
+# NoSQL-SocialNetwork-API
+
