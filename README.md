@@ -51,6 +51,7 @@ To install you clone the repo,  run npm i in the command line and npm i express 
 
 ## Walkthrough Video
 
+[Untitled_ Aug 14, 2023 8_43 PM.webm](https://github.com/Neta2393/NoSQL-SocialNetwork-API-18/assets/128006949/c4b662e1-220a-4b8c-bc50-6fc99ff8080d)
 
 
 ## Test
