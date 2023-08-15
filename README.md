@@ -54,7 +54,8 @@ To install you clone the repo,  run npm i in the command line and npm i express 
 
 ## Walkthrough Video
 
-[Uploading Untitled_ Aug 14, 2023 8_43 PM.webm…]()
+![img][Uploading Untitled_ Aug 14, 2023 8_43 PM.webm…]()
+
 
 
 ## Test
