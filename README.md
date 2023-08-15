@@ -45,13 +45,16 @@ To install you clone the repo,  run npm i in the command line and npm i express 
 
 
 
+![Screenshot (36)](https://github.com/Neta2393/NoSQL-SocialNetwork-API-18/assets/128006949/85467f72-05c6-4c72-99c1-436125ac79ac)
 
-![Alt text](<Screenshot (37).png>)![Alt text](<Screenshot (36).png>)![Alt text](<Screenshot (35).png>)
+![Screenshot (3)](https://github.com/Neta2393/NoSQL-SocialNetwork-API-18/assets/128006949/1da69e96-ac27-44a8-86b4-37f5483d8486)
+
+![Screenshot (35)](https://github.com/Neta2393/NoSQL-SocialNetwork-API-18/assets/128006949/2edf4d4b-5eec-4dc7-bb76-8fcc06175ec5)
 
 
 ## Walkthrough Video
 
-[Untitled_ Aug 14, 2023 8_43 PM.webm](https://github.com/Neta2393/NoSQL-SocialNetwork-API-18/assets/128006949/c4b662e1-220a-4b8c-bc50-6fc99ff8080d)
+[Uploading Untitled_ Aug 14, 2023 8_43 PM.webm…]()
 
 
 ## Test
