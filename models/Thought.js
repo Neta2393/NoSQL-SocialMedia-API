@@ -9,7 +9,7 @@ const thoughtSchema = new mongoose.Schema({
   },
   createdAt: {
     type: Date,
-    default: Date.now,
+    default: Date.now, // The created at runs along the dateFormat in the utils folder. When a thought is created the date and time reflect the time and date the thought was written and stored.
     get: (createdAt) => new Date(createdAt).toISOString(),
   },
   username: {

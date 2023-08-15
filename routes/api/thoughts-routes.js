@@ -29,3 +29,5 @@ router.route('/:thoughtId')
   //.delete(removeReaction);
 
 module.exports = router;
+
+//when running the above code that is commented out I was attempting to add a reaction but kept having errors in the terminal. When I commented that section out the code ran fine

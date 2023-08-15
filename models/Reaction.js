@@ -21,3 +21,5 @@ const reactionSchema = new mongoose.Schema({
 const Reaction = mongoose.model('Reaction', reactionSchema);
 
 module.exports = Reaction;
+
+//the intent was to come back to the reaction function but due to time and getting the code to run with the other functions I decided to come back to it at a later time.

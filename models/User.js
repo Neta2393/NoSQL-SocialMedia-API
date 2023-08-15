@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+//Created the schema for mongoose. When I connect to the server in mongodb I noticed that the user and thought schema were populated.
 const userSchema = new mongoose.Schema({
   username: {
     type: String,
