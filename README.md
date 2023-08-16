@@ -7,7 +7,7 @@
 
 This Repo is a social network API that uses Express.js and Mongodb to create a social network that allows you to add friends, create thoughts, delete thoughts and react to others thoughts. When a new thought is created it populates the time and date that is was created and adds it to the information that is seeded when using the GET method in Insomnia. This challenge was the first challenge that we utilized Mongodb and synced it to our localhost. 
 
-The repo that this code is located is: 
+The repo that this code is located is: https://github.com/Neta2393/NoSQL-SocialNetwork-API-18
 
 ## Table of Contents:
   * [User-Story](#user-story)
