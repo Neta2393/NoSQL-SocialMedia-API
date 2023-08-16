@@ -1,10 +1,13 @@
 # NoSQL-SocialNetwork-API
 
+
 ![License Badge](https://img.shields.io/badge/license-MIT-green) 
 
 ## Description
 
 This Repo is a social network API that uses Express.js and Mongodb to create a social network that allows you to add friends, create thoughts, delete thoughts and react to others thoughts. When a new thought is created it populates the time and date that is was created and adds it to the information that is seeded when using the GET method in Insomnia. This challenge was the first challenge that we utilized Mongodb and synced it to our localhost. 
+
+The repo that this code is located is: 
 
 ## Table of Contents:
   * [User-Story](#user-story)
